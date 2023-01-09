@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+.my-title {
+  font-size: 50px;
+  font-family: Arial;
+  text-align: center;
+  padding-top: 30px;
+  color: #3cabff;
+  font-weight: bold;
+}
+
+.my-title span{
+  text-decoration-line: underline;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
