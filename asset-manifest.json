@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProiectSRI/static/css/main.96cc98c2.css",
+    "main.js": "/ProiectSRI/static/js/main.b3c82bbf.js",
+    "static/js/787.f54c7404.chunk.js": "/ProiectSRI/static/js/787.f54c7404.chunk.js",
+    "index.html": "/ProiectSRI/index.html",
+    "main.96cc98c2.css.map": "/ProiectSRI/static/css/main.96cc98c2.css.map",
+    "main.b3c82bbf.js.map": "/ProiectSRI/static/js/main.b3c82bbf.js.map",
+    "787.f54c7404.chunk.js.map": "/ProiectSRI/static/js/787.f54c7404.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96cc98c2.css",
+    "static/js/main.b3c82bbf.js"
+  ]
+}
